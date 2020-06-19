@@ -14,5 +14,5 @@
 
 * [O] jdk
 
-`echo 'JAVA_HOME=/home/ps/.jdks/azul-13.0.3' >>~/.zshrc`
+`echo 'JAVA_HOME=/home/ps/.jdks/azul-13.0.3' >>~/.zshrc`  
 `echo 'PATH=$JAVA_HOME/bin:$PATH' >>~/.zshrc`  
